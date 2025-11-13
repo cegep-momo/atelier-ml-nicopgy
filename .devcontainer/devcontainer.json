@@ -21,8 +21,10 @@
 	// "remoteUser": "root"
 	"customizations": {
     "vscode": {
-        "extensions": ["janisdd.vscode-edit-csv",
-						"ms-toolsai.jupyter"]
+        "extensions": [
+			"janisdd.vscode-edit-csv",
+			"ms-toolsai.jupyter"
+		]
     }
 }
 }
