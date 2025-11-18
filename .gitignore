@@ -1,0 +1,5 @@
+# Ignorer tous les fichiers CSV
+*.csv
+
+# Ignorer tous les dossiers de données possibles
+/apprentissage/analyse_image/datas/
